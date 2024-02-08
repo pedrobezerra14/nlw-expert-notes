@@ -1,4 +1,4 @@
-{
+{ 
   "compilerOptions": {
     "composite": true,
     "skipLibCheck": true,
@@ -8,3 +8,4 @@
   },
   "include": ["vite.config.ts"]
 }
+  
