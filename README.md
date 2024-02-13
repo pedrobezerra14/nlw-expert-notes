@@ -49,5 +49,7 @@ Acesse [http://localhost:5173](http://localhost:5173) para visualizar a aplicaç
 
 - Vídeo demonstrativo do site em funcionamento
 
+https://github.com/pedrobezerra14/nlw-expert-notes/assets/133764832/78d76330-5be5-405c-8163-aeb882639cd1
+
 
 
