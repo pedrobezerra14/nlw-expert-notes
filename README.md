@@ -1,7 +1,7 @@
 # EXPERT NOTES
 
 ## 📝Finalidade
-<h1> Site para criação de notas por texto e aúdio.<h1/>
+- Site para criação de notas por texto e aúdio.
 
 ## 👨‍💻Funcionalidade
 - [x] Projeto feito com React, TypeScript, Tailwind e a SpeechRecognition API.
